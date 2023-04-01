@@ -2,7 +2,7 @@
 	"_comment": "墙纸",
 	"wallpaper": "https://picsum.photos/1280/720/?blur=10",
 	"_comment": "定义jar包地址",
-	"spider": "http://home.jundie.top:81/top98_1.jar",
+	"spider": "http://home.jundie.top:81/jar/top98_1.jar",
 	"_comment": "电视直播配置，要转为Base64编码",
 	"lives": [
 		{
