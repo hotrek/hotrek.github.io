@@ -28,7 +28,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "clan://TVBox/jar/fm.jar"
+			"jar": "http://hotrek.github.io/fm.jar"
 		},
 		{
 			"key": "360",
