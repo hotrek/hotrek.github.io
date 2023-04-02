@@ -68,38 +68,7 @@
 			"ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"
 		},
 				
-		{
-			"key": "csp_IQIYI",
-			"name": "🥝爱奇艺官源",
-			"type": 3,
-			"jar": "http://shuyuan.miaogongzi.net/shuyuan/1677420653.txt",
-			"api": "csp_IQIYI",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		
-	       {
-   			"key": "drpy_js_腾云驾雾",
-          		"name": "🐧腾讯官源[js]",
-    		        "type": 3,
-			 "jar":"http://shuyuan.miaogongzi.net/shuyuan/1677420653.txt",
-			"api": "csp_QQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-        },
-		
-       {
-			"key": "teng",
-			"name": "🐧企鹅官源",
-			"type": 3,
-			 "jar":"http://shuyuan.miaogongzi.net/shuyuan/1677420653.txt",
-			"api": "csp_QQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+	
 		
 	
 		{
@@ -114,16 +83,6 @@
 		},
 
 
-		{
-			"key": "csp_XBPQ_ 咕噜咕噜",
-			"name": "💢咕噜咕噜",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/咕噜咕噜.json"
-		},
 		{
 			"key": "csp_XBPQ_ 零零七",
 			"name": "💢零零七",
