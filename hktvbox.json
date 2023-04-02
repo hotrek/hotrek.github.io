@@ -1,8 +1,8 @@
 {
 	"_comment": "墙纸",
-	"wallpaper": "https://picsum.photos/1280/720/?blur=10",
+	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"_comment": "定义jar包地址",
-	"spider": "http://home.jundie.top:81/jar/top98_1.jar",
+	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;3FF662D44D19110691030E502FA92833",
 	"_comment": "电视直播配置，要转为Base64编码",
 	"lives": [
 		{
@@ -21,23 +21,63 @@
 	"_comment": "首页源网站配置",
 	"sites": [
 		{
-			"key": "csp_LiteApple",
-			"name": "🍎小苹果",
+			"key": "csp_77",
+			"name": "👒酷云七七",
 			"type": 3,
-			"api": "csp_LiteApple",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "http://hotrek.github.io/fm.jar"
-		},
-		{
-			"key": "360",
-			"name": "360",
-			"type": 3,
-			"api": "csp_SP360",
+			"api": "csp_Kunyu77",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
+		},
+		{
+			"key": "小苹果",
+			"name": "🍎小苹果",
+			"type": 3,
+			"api": "csp_LiteApple",
+			"playerType": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "360",
+			"name": "💘360影视",
+			"type": 3,
+			"api": "csp_SP33",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "csp_XBPQ_ 咕噜咕噜",
+			"name": "💢咕噜咕噜",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/咕噜咕噜.json"
+		},
+		{
+			"key": "csp_XBPQ_ 零零七",
+			"name": "💢零零七",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/零零七影视.json"
+		},
+		{
+			"key": "csp_XBPQ_乐猪",
+			"name": "💢乐猪",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/乐猪.json"
 		},
 		{
 			"key": "csp_XBPQ_98影院",
