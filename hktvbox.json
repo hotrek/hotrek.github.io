@@ -1,3 +1,4 @@
+"_comment": "以下全部出自网络和大佬资源，如有冒犯请联系删除。所有内容仅供学习使用，请勿用于违法用途"
 {
 	"_comment": "墙纸",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
@@ -11,7 +12,7 @@
 				{
 					"name": "live",
 					"urls": [
-						"proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L2xpdmVjbi50eHQ"
+						"proxy://do=live&type=txt&ext=aHR0cHM6Ly9ob3RyZWsuZ2l0aHViLmlvL2xpdmUvbGl2ZS50eHQ"
 					]
 				}
 			],
@@ -20,15 +21,6 @@
 	],
 	"_comment": "首页源网站配置",
 	"sites": [
-		{
-			"key": "csp_77",
-			"name": "👒酷云七七",
-			"type": 3,
-			"api": "csp_Kunyu77",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
 		{
 			"key": "小苹果",
 			"name": "🍎小苹果",
@@ -50,61 +42,10 @@
 			"changeable": 0
 		},
 		{
-			"key": "csp_XBPQ_ 咕噜咕噜",
-			"name": "💢咕噜咕噜",
+			"key": "csp_77",
+			"name": "👒酷云七七",
 			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/咕噜咕噜.json"
-		},
-		{
-			"key": "csp_XBPQ_ 零零七",
-			"name": "💢零零七",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/零零七影视.json"
-		},
-		{
-			"key": "csp_XBPQ_乐猪",
-			"name": "💢乐猪",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/乐猪.json"
-		},
-		{
-			"key": "csp_XBPQ_98影院",
-			"name": "98影院(XBPQ)",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\"分类\":\"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"类型\":\"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\"地区\":\"0\",\"剧情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"筛选\":\"1\"}"
-		},
-		{
-			"key": "teng",
-			"name": "🐧企鹅官源",
-			"type": 3,
-			"jar": "clan://TVBox/jar/xzy1029.jar",
-			"api": "csp_QQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "csp_IQIYI",
-			"name": "🥝爱奇艺官源",
-			"type": 3,
-			"jar": "http://shuyuan.miaogongzi.net/shuyuan/1677420653.txt",
-			"api": "csp_IQIYI",
+			"api": "csp_Kunyu77",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -143,6 +84,56 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"
+		},
+		{
+			"key": "csp_XBPQ_ 咕噜咕噜",
+			"name": "💢咕噜咕噜",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/咕噜咕噜.json"
+		},
+		{
+			"key": "csp_XBPQ_ 零零七",
+			"name": "💢零零七",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/零零七影视.json"
+		},
+		{
+			"key": "csp_XBPQ_98影院",
+			"name": "98影院(XBPQ)",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\"分类\":\"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"类型\":\"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\"地区\":\"0\",\"剧情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"筛选\":\"1\"}"
+		},
+		{
+			"key": "csp_IQIYI",
+			"name": "🥝爱奇艺官源",
+			"type": 3,
+			"jar": "http://shuyuan.miaogongzi.net/shuyuan/1677420653.txt",
+			"api": "csp_IQIYI",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "teng",
+			"name": "🐧企鹅官源",
+			"type": 3,
+			"jar": "https://hotrek.github.io/jar/xzy1029.jar",
+			"api": "csp_QQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
 		}
 	],
 	"_comment": "转换规则",
