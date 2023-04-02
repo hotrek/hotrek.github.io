@@ -79,7 +79,16 @@
 			"filterable": 1
 		},
 		
-		{
+	       {
+   			 "key": "drpy_js_腾云驾雾",
+                 "name": "🐧腾讯官源[js]",
+            "type": 3,
+            "jar":"http://shuyuan.miaogongzi.net/shuyuan/1677420653.txt;md5;EE39D6223759E1B9683EFD45D15F9134",
+            "api": "clan://TVBox/JS/lib/drpy.min.js",
+            "ext": "clan://TVBox/JS/js/腾云驾雾.js"
+        },
+		
+       {
 			"key": "teng",
 			"name": "🐧企鹅官源",
 			"type": 3,
