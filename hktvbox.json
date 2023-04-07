@@ -2,13 +2,13 @@
 	"_comment": "墙纸",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"_comment": "定义jar包地址,以俊佬为基础",
-	"spider": "https://framagit.org/hotrek/tvbox/-/raw/main/jar/fm.jar",
+	"spider": "https://hotrek.github.io/jar/fm.jar",
 	"_comment": "电视直播配置",
 	"lives": [
 		{
 			"name": "live",
 			"type": 0,
-			"url": "https://framagit.org/hotrek/tvbox/-/raw/main/live/live.txt",
+			"url": "https://hotrek.github.io/live/live.txt",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		}
@@ -31,7 +31,7 @@
 			"name": "360影视",
 			"type": 3,
 			"api": "csp_SP360",
-			"jar": "https://framagit.org/hotrek/tvbox/-/raw/main/jar/xzy1029.jar",
+			"jar": "https://hotrek.github.io/jar/xzy1029.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -66,7 +66,7 @@
 			"name": "酷云七七",
 			"type": 3,
 			"api": "csp_Kunyu77",
-			"jar": "https://framagit.org/hotrek/tvbox/-/raw/main/jar/Yoursmile.jar",
+			"jar": "https://hotrek.github.io/jar/Yoursmile.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -85,8 +85,8 @@
 			"key": "直播",
 			"name": "电视直播",
 			"type": 3,
-			"jar": "https://framagit.org/hotrek/tvbox/-/raw/main/jar/Yoursmile.jar",
-			"api": "https://framagit.org/hotrek/tvbox/-/raw/main/jar/zbzdb.js",
+			"jar": "https://hotrek.github.io/jar/Yoursmile.jar",
+			"api": "https://hotrek.github.io/jar/zbzdb.js",
 			"ext": "南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"
 		}
 	],
